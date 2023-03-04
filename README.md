@@ -4,6 +4,8 @@
 
 - [DEMO LINK](https://shyptia.github.io/pokedex/)
 
+https://www.loom.com/share/84e97cd5ca2f4d05b435735ef1c7e366
+
 ### Description
 
 The list of twelve Pokémons is loading when opening the page. To download the other part of the Pokemons, click the button `Load more`. If an error occurs when loading, an error message will appear.
