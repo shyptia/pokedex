@@ -4,7 +4,9 @@
 
 - [DEMO LINK](https://shyptia.github.io/pokedex/)
 
-<video src='https://www.loom.com/share/84e97cd5ca2f4d05b435735ef1c7e366' width=180/>
+
+https://user-images.githubusercontent.com/57047930/222918551-c86697c6-376e-4b72-a235-af5b6ae75f56.mp4
+
 
 ### Description
 
