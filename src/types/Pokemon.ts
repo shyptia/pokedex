@@ -75,17 +75,3 @@ export interface Pokemon {
   stats: PokemonStat[],
   types: PokemonType[],
 }
-
-// export interface Sprites {
-//   [key: string]: string | null;
-// }
-
-// export interface PokemonData {
-//   name: string;
-//   id: number;
-//   stats: PokemonStat[];
-//   abilities: PokemonAbility[];
-//   types: PokemonType[];
-//   weight: number;
-//   sprites: Sprites
-// }
